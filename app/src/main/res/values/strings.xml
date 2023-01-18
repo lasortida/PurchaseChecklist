@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PurchaseChecklist</string>
+    <string name="AddProductTitle">Добавление продукта</string>
+</resources>
